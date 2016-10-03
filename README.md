@@ -28,8 +28,8 @@
   <td><b>Active</b></td>
   <td>v4</td>
   <td>2015-10-01</td>
-  <td>2017-04-01</td>
-  <td>2018-04-01</td>
+  <td>April 2017</td>
+  <td>April 2018</td>
 </tr>
 <tr>
   <td>N/A</td>
@@ -40,8 +40,8 @@
   <td><b>Pending</b></td>
   <td>v6</td>
   <td>2016-10-18</td>
-  <td>2018-04-18</td>
-  <td>2019-04-18</td>
+  <td>April 2018</td>
+  <td>April 2019</td>
 </tr>
 </table>
 
@@ -60,6 +60,10 @@ Every major version covered by the LTS plan will be actively maintained for a
 period of 18 months from the date it enters LTS coverage. Following those 18 
 months of active support, the major version will transition into "maintenance" 
 mode for 12 additional months.
+
+The exact date that a release stream will be moved to LTS, moved between LTS
+modes, or deprecated will will be chosen no later than the first day of the month
+it is to be changed with no less than 14 days notice.
 
 Given this schedule, there will be no more than two active LTS releases at any 
 given time, overlapping for a maximum period of six months.
